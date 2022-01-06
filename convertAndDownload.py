@@ -31,7 +31,11 @@ def convert():
         image = {}
         image["type"] = row[0].value.lower()
         image["filename"] = row[1].value
-        image["mrz"] = row[2].value
+        boxes = []
+        box = {}
+        box["text"] = row[2].value
+        boxes.append(box)
+        image["boxes"] = boxes
         image["source"] = row[3].value
         image["url"] = row[4].value
         images.append(image)
