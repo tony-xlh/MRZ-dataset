@@ -2,7 +2,7 @@
 
 An image dataset of documents with MRZ 
 
-The dataset contains 35 images from the Internet. The MRZ code is annotated.
+The dataset contains 36 images from the Internet. The MRZ code is annotated.
 
 The images are put into 2 categories. One is synthetic images from alexpsd.ru. The other is real world images.
 
