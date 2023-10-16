@@ -1,0 +1,1 @@
+pre{padding:5px;margin:0;white-space:break-spaces;word-wrap:break-word}.fade{animation-name:fadeIn;animation-duration:1.5s}@keyframes fadeIn{0%{opacity:.4}to{opacity:1}}.list-header{padding:10px;background:#eeeeee}.list{margin-right:10px}.mrz-image{width:50%}@media screen and (max-device-width: 600px){.mrz-image{width:100%}}
