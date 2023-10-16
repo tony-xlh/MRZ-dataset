@@ -111,6 +111,17 @@
             "url": "https://i.pinimg.com/564x/9e/4e/9a/9e4e9ab49713b37ad055e460bfc1f434.jpg"
         },
         {
+            "type": "realworld",
+            "filename": "Japanese-passport.jpg",
+            "boxes": [
+                {
+                    "text": "P<JPNTSUJI<<HARUNA<<<<<<<<<<<<<<<<<<<<<<<<<<\nMJ06341542JPN0012164F2501316<<<<<<<<<<<<<<02"
+                }
+            ],
+            "source": "https://www.pinterest.com/pin/663647695103952393/",
+            "url": "https://i.pinimg.com/564x/b7/49/cf/b749cf2999255d65666e26f967fb9d3b.jpg"
+        },
+        {
             "type": "synthetic",
             "filename": "Belarus-passport-mini.jpg",
             "boxes": [
@@ -258,7 +269,7 @@
             "filename": "Kyrgyzstan-passport-mini.jpg",
             "boxes": [
                 {
-                    "text": "P<KGZBOGUBAEV<<AZAMAT<<<<<<<<<<<<<<<<<<<<<<<\nAC264414<5KGZ7701166M17030102160119770033446"
+                    "text": "P<KGZBOGUBAEV<<AZAMAT<<<<<<<<<<<<<<<<<<<<<<<<<\nAC264414<5KGZ7701166M17030102160119770033446"
                 }
             ],
             "source": "https://alexpsd.ru/product/kyrgyzstan-passport/",
